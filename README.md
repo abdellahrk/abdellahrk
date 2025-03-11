@@ -1,5 +1,10 @@
 ## Hi there 👋
 ![Abdellah Ramadan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellahrk&show_icons=true)
+
+- 👷 I am open to be hired
+- 🔭 I am currently working on [SEO Bundle](https://github.com/abdellahrk/SeoBundle) and private projects
+- ⚡ Fun fact: A developer's laptop is like a poet's sword. Making good use of it is like delivering poetry to the world.
+- 🌱 I am learning advanced concepts in Go and some software architechtures.
 <!--
 **abdellahrk/abdellahrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
