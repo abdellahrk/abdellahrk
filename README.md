@@ -1,10 +1,12 @@
 ## Hi there 👋
 ![Abdellah Ramadan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellahrk&show_icons=true)
 
-- 👷 I am open to be hired
-- 🔭 I am a Symfony and Go enthusiats. I and an open source knight.
-- ⚡ I believe is clean code and architecture
-- 🌱 I read books related to tech, politics, and literature.
+- I am an aspirant software architech
+- I do DDD oriented
+- I write mostly Kotlin and Java, PHP, Go and Typescript
+- I read technical and geopolitical books
+- I am fluent in English and French
+- I can bring legacy systems up to date.
 <!--
 **abdellahrk/abdellahrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
